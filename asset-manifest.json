@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-bag/static/css/main.289eed61.css",
+    "main.js": "/my-bag/static/js/main.b274aa80.js",
+    "static/media/macbook.png": "/my-bag/static/media/macbook.bbc3735e2c669225df7a.png",
+    "index.html": "/my-bag/index.html",
+    "static/media/bag.svg": "/my-bag/static/media/bag.145245cee1158cbdf20a6df75b877f98.svg",
+    "main.289eed61.css.map": "/my-bag/static/css/main.289eed61.css.map",
+    "main.b274aa80.js.map": "/my-bag/static/js/main.b274aa80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.289eed61.css",
+    "static/js/main.b274aa80.js"
+  ]
+}
